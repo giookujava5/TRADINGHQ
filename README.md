@@ -27,3 +27,4 @@ npx vitest run
 ```
 Runs the calculation-engine, timezone and database tests. The DB tests execute the real migration in
 PGlite (Postgres in WebAssembly) and verify Row Level Security isolation between two users.
+TRADING HQ — Personal Trading Journal & Analytics Platform
